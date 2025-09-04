@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://bhuyogmantra.com/sitemap.xml
