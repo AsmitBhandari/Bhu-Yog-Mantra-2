@@ -4,29 +4,36 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+  <!-- Homepage -->
+  <url>
+    <loc>https://bhuyogmantra.com/</loc>
+    <lastmod>2025-09-02T01:52:29+00:00</lastmod>
+    <priority>1.00</priority>
+  </url>
 
-<url>
-  <loc>https://bhuyogmantra.com/</loc>
-  <lastmod>2025-09-02T01:52:29+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://bhuyogmantra.com/online-sessions</loc>
-  <lastmod>2025-09-02T01:52:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://bhuyogmantra.com/personal-training</loc>
-  <lastmod>2025-09-02T01:52:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://bhuyogmantra.com/group-classes</loc>
-  <lastmod>2025-09-02T01:52:29+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
+  <!-- Service Pages -->
+  <url>
+    <loc>https://bhuyogmantra.com/online-sessions.html</loc>
+    <lastmod>2025-09-02T01:52:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bhuyogmantra.com/personal-training.html</loc>
+    <lastmod>2025-09-02T01:52:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://bhuyogmantra.com/group-classes.html</loc>
+    <lastmod>2025-09-02T01:52:29+00:00</lastmod>
+    <priority>0.80</priority>
+  </url>
 
+  <!-- Thank You Page -->
+  <url>
+    <loc>https://bhuyogmantra.com/thank-you.html</loc>
+    <lastmod>2025-09-02T01:52:29+00:00</lastmod>
+    <priority>0.50</priority>
+  </url>
 
 </urlset>
